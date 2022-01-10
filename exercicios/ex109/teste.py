@@ -1,0 +1,8 @@
+import moeda
+
+p = float(input('Digite o preço: '))
+print(f'A metade de {moeda.moeda(p)} é {moeda.metade(p, True)}')
+print(f'O dobro de {moeda.moeda(p)} é {moeda.dobro(p, True)}')
+t = int(input('Qual o valor da taxa? '))
+print(f'Aumentando {t}%, temos {moeda.aumentar(p, t, True)}')
+print(f'Diminuindo {t}%, temos {moeda.diminuir(p, t, True)}')

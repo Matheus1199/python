@@ -1,0 +1,150 @@
+('C:\\Users\\Nuvem Shop\\OneDrive - WA3 SOLUCOES E SERVICOS EM TI '
+ 'LTDA\\Attachments\\Documentos\\Curso de '
+ 'Python\\exercicios\\build\\ex071\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Nuvem Shop\\OneDrive - WA3 SOLUCOES E SERVICOS EM TI '
+   'LTDA\\Attachments\\Documentos\\Curso de '
+   'Python\\exercicios\\build\\ex071\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('ex071',
+   'C:\\Users\\Nuvem Shop\\OneDrive - WA3 SOLUCOES E SERVICOS EM TI '
+   'LTDA\\Attachments\\Documentos\\Curso de Python\\exercicios\\ex071.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('_lzma',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Nuvem '
+   'Shop\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Nuvem Shop\\OneDrive - WA3 SOLUCOES E SERVICOS EM TI '
+   'LTDA\\Attachments\\Documentos\\Curso de '
+   'Python\\exercicios\\build\\ex071\\base_library.zip',
+   'DATA'),
+  ('ex071.exe.manifest',
+   'C:\\Users\\Nuvem Shop\\OneDrive - WA3 SOLUCOES E SERVICOS EM TI '
+   'LTDA\\Attachments\\Documentos\\Curso de '
+   'Python\\exercicios\\build\\ex071\\ex071.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename ex071.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
